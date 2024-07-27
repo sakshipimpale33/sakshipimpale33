@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on **MERN stack web development**
 
-- 🌱 I’m currently learning **Generative AI,MERN Stack ,Machine Learning etc..**
-
 - 👯 I’m looking to collaborate on **React and Angular**
-
-- 🤝 I’m looking for help with **Machine Learning**
 
 - 💬 Ask me about **react , android , javascript**
 
