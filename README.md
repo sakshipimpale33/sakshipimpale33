@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **React and Angular**
 
-- 💬 Ask me about **react , android , machile learning**
+- 💬 Ask me about **Programming and 3D Web Apps **
 
 - 📫 How to reach me **sakshipimpale88@gmail.com**
 
