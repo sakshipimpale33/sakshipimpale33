@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/sakshi-pimpale" target="blank">
+  <a href="https://www.linkedin.com/in/sakshi-pimpale-9a6b2a280" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sakshi-pimpale" />
   </a>
   <a href="https://instagram.com/its_philip_02" target="blank">
