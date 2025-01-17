@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **MERN stack web development**
+- 🔭 I’m currently working on **MERN STACK DEVELOPMENT**
 
-- 👯 I’m looking to collaborate on **React and Angular**
+- 👯 I’m looking to collaborate on **ReactJS**
 
-- 💬 Ask me about **Programming and 3D Web Apps **
+- 💬 Ask me about **Programming and 3D Web Apps**
 
 - 📫 How to reach me **sakshipimpale88@gmail.com**
 
