@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sakshi</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hey 👋, I'm Sakshi</h1>
+<h3 align="center">Crafting Passion and Products</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=F77C0C&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Open+to+Collaborations!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=F77C0C&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+to+Collaborations!" alt="Typing SVG" />
 </p>
 
 - 🔭 I’m currently working on **MERN STACK DEVELOPMENT**  
